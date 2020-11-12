@@ -1,0 +1,42 @@
+h1 {
+    display: flex;  /* defaults to row layout */
+    justify-content: center;  /* centers items horizontally in row layout */
+    align-items: center;  /* centers vertically in row layout */
+    /* flex-direction: column; will set layout to column instead of row */
+}
+
+#input {
+    font-size: x-large;
+    justify-content: center;
+    border-radius: 8px;
+    align-items: center;
+}
+
+#add {
+    align-items: center;
+    border-radius: 8px;
+    font-size: x-large;
+    justify-content: center;
+    background-color: #9b9898;
+    color: #ffffff
+    
+}
+
+#add:hover {
+    color: #9b9898;
+    background-color: #ffffff
+}
+
+#subtract {
+    align-items: center;
+    border-radius: 8px;
+    font-size: x-large;
+    justify-content: center;
+    background-color: #9b9898;
+    color: #ffffff
+}
+
+#subtract:hover {
+    color: #9b9898;
+    background-color: #ffffff
+}
