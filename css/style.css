@@ -10,16 +10,17 @@ h1 {
     justify-content: center;
     border-radius: 8px;
     align-items: center;
+    text-align: center;
 }
 
 #add {
     align-items: center;
+    text-align: center;
     border-radius: 8px;
     font-size: x-large;
     justify-content: center;
     background-color: #9b9898;
     color: #ffffff
-    
 }
 
 #add:hover {
@@ -29,6 +30,7 @@ h1 {
 
 #subtract {
     align-items: center;
+    text-align: center;
     border-radius: 8px;
     font-size: x-large;
     justify-content: center;
